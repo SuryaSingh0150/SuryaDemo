@@ -1,3 +1,4 @@
 # SuryaDemo
 This is my first Git Repository
-Author-Surya Pratap Singh
+Author-Surya Pratap Singh (SuryaSingh)
+
